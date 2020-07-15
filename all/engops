@@ -1,2 +1,2 @@
-herman ALL=(ALL) ALL
-richard ALL=(ALL) ALL
+herman ALL=(ALL) NOPASSWD: ALL
+richard ALL=(ALL) NOPASSWD: ALL
