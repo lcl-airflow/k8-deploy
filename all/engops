@@ -1,2 +1,3 @@
 herman ALL=(ALL) NOPASSWD: ALL
 richard ALL=(ALL) NOPASSWD: ALL
+vig ALL=(ALL) NOPASSWD: ALL
