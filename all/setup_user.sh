@@ -1,5 +1,8 @@
-mkdir -p /home/richard
-mkdir -p /home/herman
-useradd -d /home/herman herman -p herman123
-useradd -d /home/richard richard -p richard123
+useradd -d /home/herman herman
+useradd -d /home/richard richard
+useradd -d /home/vig vig
+useradd -d /home/shahrier shahrier
+
+cp engops /etc/sudoers.d/
+cp engops /etc/sudoers.d/
 cp engops /etc/sudoers.d/
